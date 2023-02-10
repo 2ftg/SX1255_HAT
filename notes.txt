@@ -1,0 +1,64 @@
+SX1255 parts
+
+Extended:
+SX1255IWLTRT  C89372 8pcs in stock
+LP5907MFX-3.3/NOPB  C80670 8480 in stock
+
+
+
+Basic:
+Karkea regu
+Kaikki kerkot
+Kaikki vastukset
+
+RPi ID I2C EEPROM
+
+70cm (450MHz corner) LPF, jos mahdollista ilman mikroliuskoja.
+
+JLCPCB 4-layer process. 1.6mm thick
+
+
+Raspi GPIO selections:
+
+3V3 to "Raspi 3V3 led"
+5V to "5V power led"
+
+SX1255 SPI
+
+GPIO8 CE0
+GPIO9 MISO
+GPIO10 MOSI
+GPIO11 SCLK
+
+SX1255 I2S
+
+GPIO18 PCM_CLK
+GPIO19 PCM_FS
+GPIO20 PCM_DIN
+GPIO21 PCM_DOUT
+
+SX1255 reset
+
+
+
+GPIO4 RPiTX out
+
+GPIO7 second SPI CS
+
+GPIO12 PWM
+GPIO13 PWM
+
+Serial console
+GPIO14
+GPIO15
+
+GPIO16 TX control
+GPIO17 RX control
+
+JTAG
+GPIO22
+GPIO23
+GPIO24
+GPIO25
+GPIO26 shutdown-button
+GPIO27
