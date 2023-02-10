@@ -1,5 +1,15 @@
 SX1255 parts
 
+https://www.semtech.com/products/wireless-rf/lora-core/sx1255#documentation
+https://www.taitien.com/wp-content/uploads/2015/12/XO-0081_TY.pdf
+
+Muualta:
+32MHz TCXO
+https://www.digikey.fi/fi/products/detail/taitien/TYETBCSANF-32-000000/6127657
+
+
+
+
 Extended:
 SX1255IWLTRT  C89372 8pcs in stock
 LP5907MFX-3.3/NOPB  C80670 8480 in stock
